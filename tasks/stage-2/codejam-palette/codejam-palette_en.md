@@ -118,7 +118,7 @@ The mentor can leave a comments during the review, and you as a student can fix 
     
 ## Requirements for commits, PR, repository
 
-[General requirements from stage 2](https://github.com/rolling-scopes-school/docs/blob/master/ru/stage2-tasks-requirements.md).
+[General requirements from stage 2](https://github.com/rolling-scopes-school/docs/blob/master/docs/stage2.md#%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BA-pull-request-pr).
 
 ## Evaluation
 
