@@ -31,7 +31,6 @@ Browser Support: **Google Chrome, Mozilla Firefox. Optional: Microsoft Edge / Sa
 - Pop-over forms.
 - Pictures optimization.
 - JS interactions.
-- JS interactions.
 - Map API.
 
 ### First draft requirements
